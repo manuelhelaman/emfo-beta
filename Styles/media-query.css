@@ -1,0 +1,12 @@
+@media (max-width: 500px) {
+    .rows-container > .bottom-row > .text-presentation {
+        position: relative;
+        margin-left: -1px;
+    }
+}
+
+@media (max-width: 500px) {
+    .rows-container > .bottom-row > .body-image img{
+        margin-left: -1px;
+    }
+}

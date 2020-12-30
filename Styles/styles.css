@@ -1,0 +1,31 @@
+.rows-container {
+    text-align: center;
+}
+
+.rows-container > .top-row > .emfo-logo img{
+    width: 350px;
+}
+
+.rows-container > .bottom-row > .text-presentation{
+    position: absolute;
+    background-color: transparent;
+    margin-top: -220px;
+    margin-left: 570px;
+    color: #39ff14;
+}
+
+.rows-container > .bottom-row img{
+    position: relative;
+    width: 450px;
+    margin-left: 130px;
+    margin-top: -170px;
+}
+
+h2{
+    font-family: 'Courier Prime', monospace;
+}
+
+p {
+    font-family: 'Courier Prime', monospace;
+    font-weight: bold;
+}
